@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in HTML.  The bug arises when attempting to access the `textContent` of an element after it has been removed from the DOM. The solution shows the correct way to handle element removal and access.
